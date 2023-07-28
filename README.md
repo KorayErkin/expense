@@ -1,16 +1,5 @@
 # expense
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Blank Home Screen](https://github.com/KorayErkin/expense/assets/90157883/41a2a97e-cfab-46b8-b8c7-f2183e1217ba)
+![Add Expense Screen](https://github.com/KorayErkin/expense/assets/90157883/c88a0ef4-956c-4029-b374-65807408d467)
+![Home Screen](https://github.com/KorayErkin/expense/assets/90157883/42a14eea-7b20-4443-b7a3-efaeff4458d9)
